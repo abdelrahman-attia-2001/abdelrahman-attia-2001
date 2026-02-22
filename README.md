@@ -1,319 +1,203 @@
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Custom Design Bannner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-![AA Github Banner](https://github.com/user-attachments/assets/b3f42fa2-308a-4eeb-b436-ea4086468dd9)
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Visitor Badge Links ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ============================================================ -->
+<!--- Banner -->
+<!--- ============================================================ -->
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2Fmdazfar2&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-  <a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=medium&logoColor=0A0209"/></a>
-<!--   <a href="https://www.showwcase.com/mdazfar2"><img src="https://github.com/mdazfar2/mdazfar2/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a>. -->
-  <a href="http://www.linkedin.com/in/md-azfar-alam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:mdazfaralam440@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" ></a>
-  <a href="https://twitter.com/mdazfar_2"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="mdazfar_2" ></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="700" height="350" />
 </div>
-<br>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
- 
- </a>
- 
-</p>
-
-<p align="center"> Meaning of My name is 𝐕𝐢𝐜𝐭𝐨𝐫𝐢𝐨𝐮𝐬. Yeah You are thinking Right I am 𝐀𝐳𝐟𝐚𝐫 𝐀𝐥𝐚𝐦. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
-
-### <p align="center">My Technical Skills</p>
+<h1 align="center">
+  Hi, I'm Abdelrahman Refat Attia
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 
 <p align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
+  <a href="https://github.com/abdelrahman-attia-2001">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=14F774&random=false&center=true&width=550&height=55&lines=Front-End+Developer+%F0%9F%98%8A;Angular+%7C+React.js+%7C+Next.js;TypeScript+%26+Modern+UI+Expert;Clean+Code+%26+Best+Practices+Advocate+%F0%9F%9A%80" />
   </a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--- ============================================================ -->
+<!--- Visitor Badge & Social Links -->
+<!--- ============================================================ -->
 
-<div>
-
-<i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
-
-👋 Greetings! It's great to have you here. I'm Azfar Alam, an enthusiastic DevOps Engineer hailing from India..
-
-🚀 As the Founder of [HelpOps-Hub](https://www.helpopshub.com/), I created the platform to help DevOps learners avoid time-consuming errors by sharing solutions. I invite everyone to join, share experiences, and learn effective troubleshooting.
-
-🎓 &nbsp; I completed my **Bachelor of Technology in Computer Science** in 2025, and I currently manage [Nexus: Innovate, Connect, Fund](https://github.com/Nexus-lb).
-
-🔥 &nbsp; With an impressive following of 10k+ on [Linkedin](https://www.linkedin.com/in/md-azfar-alam/), I post a lot of DevOps technology content, various technology-related projects, and ideas for integrating different technologies.
-
-🔖 &nbsp; I am busy writing articles on use cases across various industries and technologies on [medium](https://medium.com/@azfaralam).
-
-🔥 &nbsp; I document my DevOps learnings step-by-step on [Hashnode](https://azfaralam.hashnode.dev/) with screenshots for future reference and easy understanding, creating a resource that also helps others in the field.
-
-💡 &nbsp; Fueled by real-world challenges, I’m always exploring how technology can solve practical problems—driving solutions that bridge the gap between ideas and impactful outcomes.
-
-🧭 &nbsp; Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
-
-
-<br>
-<br>
-
-
-<details>
-  <summary>🏆 Certificates</summary>
-  <br>
-
-
-📄 Below is a showcase of my knowledge and skills across a wide range of DevOps, cloud, and related technologies, primarily completed through [LinuxWorld Informatics Pvt. Ltd](https://www.linkedin.com/company/linuxworld-informatics-pvt-ltd).
-
-<br>
-
-| S.No. | Certificate Name | Issuing Authority | Date | Credential |
-|:-----:|:-----------------|:------------------:|:----:|:----------:|
-| 1. | JAZBAA 2.0 | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_iiec-jazbaa-20-certificate-of-participation-activity-7142721202652856320-PFFs?utm_source=share&utm_medium=member_desktop) |
-| 2. | Summer Internship | LinuxWorld Informatics Pvt. Ltd. | September 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_summer-internship-certificate-activity-7108747092721905665-QnCj?utm_source=share&utm_medium=member_desktop) |
-| 3. | ARTH 3.0 | LinuxWorld Informatics Pvt. Ltd. | November 2023 | [View](https://www.linkedin.com/posts/md-azfar-alam_arth-30-certificate-of-completion-activity-7241412508819808257-kagj?utm_source=share&utm_medium=member_desktop) |
-| 4. | Industry Relevant AWS Training | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1W3bKVgFCAL42-lmrM5qk1wbrs_zYkm-x/view?usp=sharing) |
-| 5. | Jenkins CI/CD using Pipeline | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/17kxGNilfTU39liWtKt4un149HNzX78QY/view?usp=sharing) |
-| 6. | Specialization in Container | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1UkIQfQHMLSXLOeS_s8gFXm7cRoLNSZS5/view?usp=drive_link) |
-| 7. | Bash Shell Scripting | LinuxWorld Informatics Pvt. Ltd. | January 2023 | [View](https://drive.google.com/file/d/10E7r8sRuxEO5Cb8yw_O5jTzddHCnEzvI/view?usp=drive_link) |
-| 8. | MongoDB - NoSQL | LinuxWorld Informatics Pvt. Ltd. | April 2023 | [View](https://drive.google.com/file/d/1scEDURMvPz5K1CnCO8voyB2psHIO1P1c/view?usp=drive_link) |
-| 9. | Monitoring using Prometheus & Grafana | LinuxWorld Informatics Pvt. Ltd. | May 2023 | [View](https://drive.google.com/file/d/1Zth5UR3RRePJ3phIHjvcxigZEbcVsUfK/view?usp=drive_link) |
-| 10. | Managing Infrastructure using Terraform | LinuxWorld Informatics Pvt. Ltd. | February 2023 | [View](https://drive.google.com/file/d/1pyXT6jL1UIwyW2m8dLCtNs2mcELthOpi/view?usp=drive_link) |
-| 11. | RHEL Automation with Ansible (294) | RedHat | December 2022 | [View](https://drive.google.com/file/d/16OB5BpfLHIomVgyDGVxkraTp9_VQ7YmH/view?usp=drive_link) |
-| 12. | AWS Cloud with AI | LinuxWorld Informatics Pvt. Ltd. | August 2023 | [View](https://drive.google.com/file/d/1Obk4hSorYG2XjcTG2nPjk4W1_uiPIIrE/view?usp=sharing) |
-
-
-
-  
-</details>
-
-<br>
-<br>
-
-
-
-## Latest Blog Posts  
-
-<a href="https://medium.com/@azfaralam"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=0A0209"/></a><br>
-
-<!-- BLOG-POST-LIST:START -->
-- [How Industries are Solving challenges using Ansible?](https://medium.com/@azfaralam/how-industries-are-solving-challenges-using-ansible-53c951ce105)
-- [How is Kubernetes used in industries, and what use cases are solved by Kubernetes?](https://medium.com/@azfaralam/how-is-kubernetes-used-in-industries-and-what-use-cases-are-solved-by-kubernetes-1692ba4b13cc)
-- [Mapping Industry Landscapes: A Comprehensive Study on Jenkins Adoption Across Companies!](https://medium.com/@azfaralam/mapping-industry-landscapes-a-comprehensive-study-on-jenkins-adoption-across-companies-bcfafb4e91d)
-- [Transforming Industries: The Power of Natural Language Processing (NLP) in the Age of AI](https://medium.com/@azfaralam/transforming-industries-the-power-of-natural-language-processing-nlp-in-the-age-of-ai-b159a0738344)
-- [OpenShift Use Cases | Real-Time Industry Based Case Studies | Why Openshift](https://medium.com/@azfaralam/openshift-use-cases-real-time-industry-based-case-studies-fff064af0e3b)
-- [Mastering Prompt Engineering: Optimizing Conversations with ChatGPT](https://medium.com/@azfaralam/unlocking-the-power-of-chat-gpt-through-effective-prompt-engineering-2d72c3655e03)
-<!-- BLOG-POST-LIST:END -->
-
-
-<!------------------   -------------------------------------------------------------------- -->
-<!---------------- Recommend Blog Post ----------------------------------------------------- -->
-<!---------------------  ------------------------------------------------------------------- -->
-
-
-
-
-<!------------------   -------------------------------------------------------------------- -->
-<!----------------[END] Recommend Blog Post ----------------------------------------------------- -->
-<!---------------------  ------------------------------------------------------------------- -->
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fabdelrahman-attia-2001&label=VISITORS&labelColor=%23000&countColor=%2314F774" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/--abdelrahman-attia22/">
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/>
+  </a>
+  <a href="mailto:abdelrahmanattiaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209"/>
+  </a>
+  <a href="https://github.com/abdelrahman-attia-2001">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1xVpajtIWLy5JOhSmmCydlCj6rg91Odtk/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/My%20CV-d5d5d5?style=for-the-badge&logo=googledrive&logoColor=0A0209"/>
+  </a>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!--- ============================================================ -->
+<!--- About Me -->
+<!--- ============================================================ -->
 
-<samp>Trying to touch and learn 1 new thing everyday!</samp>
----
+<p align="center">
+  <i>Passionate about building scalable, high-performance web applications. Focused on clean code and great user experiences.</i>
+</p>
+
+<br/>
+
+- 🎓 &nbsp; **B.Sc. in Computer Science** — Higher Institute for Management and Technology, Kafr El-Sheikh (2019–2023)
+- 💼 &nbsp; **Front-End Developer Intern** — Angular · React.js · Next.js · TypeScript
+- 🔭 &nbsp; Currently building scalable, production-ready web applications
+- 🌱 &nbsp; Continuously learning modern front-end technologies and best practices
+- 👯 &nbsp; Open to collaborating on **Open Source Projects**
+- 💡 &nbsp; Fueled by real-world challenges and turning ideas into interactive experiences
+- 📫 &nbsp; Reach me: **abdelrahmanattiaq@gmail.com** | **+20 1011815632**
+- 📍 &nbsp; Based in **Cairo, Egypt** 🇪🇬
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Tech Stack Table -->
+<!--- ============================================================ -->
 
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
-<samp>Tools & Technologies</samp> | <samp>Badge</samp> |
---- | --- |
-<samp>DevOps</samp> | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=0A0209) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=0A0209) ![Openshift](https://img.shields.io/badge/openshift-%230db7ed.svg?style=for-the-badge&logo=openshift&logoColor=0A0209) ![Microservices](https://img.shields.io/badge/microservices-%230075A8.svg?style=for-the-badge&logo=microservices&logoColor=0A0209) ![Istio](https://img.shields.io/badge/istio-%230025F2.svg?style=for-the-badge&logo=istio&logoColor=0A0209) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=0A0209) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=0A0209)|
-<samp>Cloud Platforms</samp> | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=0A0209) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=0A0209) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=0A0209) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)|
-<samp>Operating System</samp> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=d5d5d5) ![Red Hat](https://img.shields.io/badge/redhat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=0A0209) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=0A0209) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0A0209) ![macOS](https://img.shields.io/badge/macOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=0A0209) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0A0209) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=0A0209) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=0A0209)|
-<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=0A0209) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=d5d5d5) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=0A0209) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=0A0209) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=0A0209) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=0A0209)|
-<samp>Frameworks</samp> | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=0A0209) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=0A0209) ![React Native](https://img.shields.io/badge/react%20native-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)|
-<samp>IDE & Environment</samp> | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0A0209) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=0A0209) ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=0A0209) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=0A0209) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=d5d5d5&color=d5d5d5&labelColor=green)|
-<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=0A0209) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=0A0209) ![Bitbucket](https://img.shields.io/badge/bitbucket-%234A90E2.svg?style=for-the-badge&logo=bitbucket&logoColor=0A0209)|
-<samp>Servers</samp> | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=0A0209) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=0A0209) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=0A0209) ![Tomcat](https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=d5d5d5) |
-<samp>Monitoring & Observability</samp> | ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=0A0209) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=0A0209) ![Nagios](https://img.shields.io/badge/nagios-%23005094.svg?style=for-the-badge&logo=nagios&logoColor=0A0209) ![Kiali](https://img.shields.io/badge/kiali-%234A90E2.svg?style=for-the-badge&logo=kiali&logoColor=0A0209) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=0A0209)|
-<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=0A0209) ![MySQL](https://img.shields.io/badge/mysql-%234A90E2.svg?style=for-the-badge&logo=mysql&logoColor=0A0209) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=0A0209) ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=0A0209)|
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-
-<br>
-<hr>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdazfar2&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="mdazfar2" />
-
-</details>                     
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Github Metrics & All ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<br>
-
-# 📊 My GitHub Insights & Stats
-
-<br/>
-<br/>
-
-
-<details>
-  <summary>Expand</summary> 
-
-| Overview | Follow up Issues & PRs |
-|:--------:|:-------------------------:|
-| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
-| Leetcode Stats | Notable Contributions |
-| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
-| Achievements | Language Activity |
-| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
-| Discussions | Reactions |
-| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
-</details>                     
-<br>
-<br/>
-
-<hr>
-
-
-
-
-
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/md-azfar-alam"><img src="https://img.shields.io/badge/linkedin-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <br>
-  <a href="https://medium.com/@azfaralam/"><img src="https://img.shields.io/badge/-medium-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
-  <a href="https://instagram.com/azfarxx_?utm_source=qr&igshid=OGIxMTE0OTdkZA=="><img src="https://img.shields.io/badge/instagram-0A0209?style=for-the-badge&logo=instagram&logoColor=d5d5d5"/></a> 
-  <br>
-  <a href="https://peerlist.io/mdazfar2"><img src="https://img.shields.io/badge/peerlist-d5d5d5?style=for-the-badge&logo=peerlist&logoColor=0A0209" ></a>
-  <a href="https://leetcode.com/u/mdazfar2/"><img src="https://img.shields.io/badge/-LeetCode-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://www.polywork.com/mdazfar2"><img src="https://img.shields.io/badge/polywork-d5d5d5?style=for-the-badge&logo=polywork&logoColor=0A0209" ></a>
-  <br> 
-  <a href="https://www.facebook.com/mdazfar2/"><img src="https://img.shields.io/badge/facebook-0A0209?style=for-the-badge&logo=facebook&logoColor=d5d5d5" /></a>
-  <a href="https://app.daily.dev/azfaralam/"><img src="https://img.shields.io/badge/daily.dev-0A0209?style=for-the-badge&logo=daily.dev&logoColor=d5d5d5" /></a>
-  <a href="https://twitter.com/azfarxx_"><img src="https://img.shields.io/badge/Twitter-0A0209?style=for-the-badge&logo=x&logoColor=d5d5d5" alt="azfarxx_" ></a>
-  <a href="https://www.showwcase.com/mdazfar2"><img src="https://img.shields.io/badge/showwcase-0A0209?style=for-the-badge&logo=showwcase&logoColor=d5d5d5" ></a>
-  <br>
-  <a href="https://azfaralam.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209"/></a>
-  <a href="mailto:azfaralam.ops@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://discordapp.com/users/877531143610708028"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Azfar Alam#6950" >
-  <a href="https://auth.geeksforgeeks.org/user/mdazfar2"><img src="https://img.shields.io/badge/GeeksforGeeks-d5d5d5?style=for-the-badge&logo=geeksforgeeks&logoColor=0A0209"/></a>
-  <a href="https://dribbble.com/mdazfar2/"><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
-  
-</div>
-
-<hr>
-
-<!--
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=false" alt="mdazfar2" />
-</p> 
--->
-
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
-   </a>
-</p>
-
-
-# Github Stats
-
-<!-- ---------------------------------------STATS------------------------------------------
---------------------------------------------------------------------------------------------- -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdazfar2&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="mdazfar2" /></p>
-
-<p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=mdazfar2&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="mdazfar2" height="170" /></p>
-                
-
-
-
-<img src="https://img.shields.io/github/followers/mdazfar2.svg?style=social&amp;label=Follow"
-        style="max-width: 100%;" />
-        
-<!-- ---------------------------------------STATS------------------------------------------
---------------------------------------------------------------------------------------------- -->      
-        
-          
-
-<br>      
-<details>
-  
-<p align="center">
-  <a href="https://github.com/mdazfar2">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdazfar2&theme=transparent" />
-  </a>
-  <a href="https://github.com/mdazfar2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdazfar2&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/mdazfar2">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdazfar2&theme=transparent" />
-  </a>
-  <a href="https://github.com/mdazfar2">
-
-</details>
-
-<br><br>
-
-
-<!-- ---------------------------------------3D Contributor------------------------------------------
---------------------------------------------------------------------------------------------- -->
-
-<div align="center" >
-<h1> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
- </div>
-
-        
-
-<div align="center">
-<img  alt="Contributions" height="80%" width="80%cu" src="./profile-3d-contrib/profile-night-rainbow.svg">
-</div>
-
-  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-  
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
+<samp>Category</samp> | <samp>Technologies</samp>
+--- | ---
+<samp>Frameworks</samp> | ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<samp>Languages</samp> | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<samp>Styling</samp> | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Framer](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+<samp>State Management</samp> | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+<samp>Forms & Validation</samp> | ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+<samp>Tools & Routing</samp> | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<samp>Design & API</samp> | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<samp>Embedded / IoT</samp> | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!--- ============================================================ -->
+<!--- Experience -->
+<!--- ============================================================ -->
+
+## 💼 Professional Experience
+
+**Front-End Developer Intern** &nbsp;|&nbsp; *July 2025 – November 2025*
+
+- Completed an intensive program mastering **Angular, React.js, Next.js, TypeScript**, and modern UI/UX principles
+- Built full-featured web apps with maintainable code, reusable components, and scalable architecture
+- Implemented state management using **Redux, React Query, and RxJS** for optimized data flow
+- Designed responsive and accessible UIs using **TailwindCSS** and **shadcn/ui**
+- Managed API integration, user authentication, form validation, and performance optimization
+- Collaborated in team projects following **Git workflows, Agile**, and code review practices
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Projects -->
+<!--- ============================================================ -->
+
+## 🚀 Projects
+
+### 🛒 Shop Angular — *E-commerce Platform*
+> Angular · TypeScript · State Management · API Integration
+
+- Responsive e-commerce app with scalable component-based architecture
+- Product listing, cart functionality, and full API integration
+- Applied modern UI design and reusable component patterns
+
+---
+
+### ♻️ Tadweer Platform — *ITI Graduation Project*
+> React.js · Context API · RHF + Zod · i18n · REST API
+
+- Role-based recycling platform (User / Admin / Company) with modular React architecture
+- Schema-driven forms using **React Hook Form + Zod**, app logic via **Context API**
+- Real backend integration for auth, workflows, and request operations
+- Shipped **i18n support** and a mock Stripe-like payment flow
+
+---
+
+### 🌱 Smart Soil Monitoring System — *University Graduation Project (Excellent ⭐)*
+> Arduino · C/C++ · HTML · JavaScript · IoT
+
+- IoT-based system collecting real-time soil data (moisture, gas levels) via embedded sensors
+- Wireless data-transmission module for remote monitoring via an online dashboard
+- Embedded software using **Arduino with C/C++** for sensor control and alert triggers
+- Responsive web interface to visualize live readings and system alerts
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Activity Graph -->
+<!--- ============================================================ -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-attia-2001&bg_color=0D1117&color=14F774&line=14F774&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Trophies -->
+<!--- ============================================================ -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-attia-2001&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Snake -->
+<!--- ============================================================ -->
+
+<div align="center">
+
+![Snake animation](https://github.com/abdelrahman-attia-2001/abdelrahman-attia-2001/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Connect Section -->
+<!--- ============================================================ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/--abdelrahman-attia22/">
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abdelrahmanattiaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/abdelrahman-attia-2001">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1xVpajtIWLy5JOhSmmCydlCj6rg91Odtk/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download%20CV-d5d5d5?style=for-the-badge&logo=googledrive&logoColor=1a73e8"/>
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman-attia-2001&label=Profile%20views&color=14F774&style=flat" />
+</p>
+
+<div align="center">
+  <samp>🇪🇬 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Very Good</samp>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
