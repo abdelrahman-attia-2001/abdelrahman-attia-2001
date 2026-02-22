@@ -27,12 +27,6 @@
 
 ### <p align="center">My Technical Skills</p>
 
-<p align="center">
-  <a href="https://github.com/abdelrahman-attia-2001">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
-  </a>
-</p>
-# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 <samp>Category</samp> | <samp>Technologies</samp>
 --- | ---
