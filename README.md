@@ -50,61 +50,124 @@
 
 <div>
 
-<i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
 
-👋 Greetings! It's great to have you here. I'm Abdelrahman Attia, an enthusiastic DevOps Engineer.
+<!--- ============================================================ -->
+<!--- Experience -->
+<!--- ============================================================ -->
 
-💡 &nbsp; Fueled by real-world challenges, I'm always exploring how technology can solve practical problems—driving solutions that bridge the gap between ideas and impactful outcomes.
+## 💼 Professional Experience
 
-🧭 &nbsp; Empathy is my compass—guiding collaboration, fostering understanding, and creating a harmonious tapestry in every interaction.
+*Front-End Developer Intern* &nbsp;|&nbsp; July 2025 – November 2025
 
-<br>
-<br>
+- Completed an intensive program mastering *Angular, React.js, Next.js, TypeScript*, and modern UI/UX principles
+- Built full-featured web apps with maintainable code, reusable components, and scalable architecture
+- Implemented state management using *Redux, React Query, and RxJS* for optimized data flow
+- Designed responsive and accessible UIs using *TailwindCSS* and *shadcn/ui*
+- Managed API integration, user authentication, form validation, and performance optimization
+- Collaborated in team projects following *Git workflows, Agile*, and code review practices
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<!--- ============================================================ -->
+<!--- Projects -->
+<!--- ============================================================ -->
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+## 🚀 Projects
 
+### 🛒 Shop Angular — E-commerce Platform
+> Angular · TypeScript · State Management · API Integration
 
-<br>
-<hr>
+- Responsive e-commerce app with scalable component-based architecture
+- Product listing, cart functionality, and full API integration
+- Applied modern UI design and reusable component patterns
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-attia-2001&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="abdelrahman-attia-2001" />
+---
 
-<br>
+### ♻️ Tadweer Platform — ITI Graduation Project
+> React.js · Context API · RHF + Zod · i18n · REST API
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+- Role-based recycling platform (User / Admin / Company) with modular React architecture
+- Schema-driven forms using *React Hook Form + Zod, app logic via **Context API*
+- Real backend integration for auth, workflows, and request operations
+- Shipped *i18n support* and a mock Stripe-like payment flow
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+---
 
-<div align="center">
-  <a href="http://www.linkedin.com/in/--abdelrahman-attia22/"><img src="https://img.shields.io/badge/linkedin-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <br>
-  <a href="mailto:abdelrahmanattiaq@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://github.com/abdelrahman-attia-2001"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209"/></a>
-</div>
+### 🌱 Smart Soil Monitoring System — University Graduation Project (Excellent ⭐)
+> Arduino · C/C++ · HTML · JavaScript · IoT
 
-<hr>
+- IoT-based system collecting real-time soil data (moisture, gas levels) via embedded sensors
+- Wireless data-transmission module for remote monitoring via an online dashboard
+- Embedded software using *Arduino with C/C++* for sensor control and alert triggers
+- Responsive web interface to visualize live readings and system alerts
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Activity Graph -->
+<!--- ============================================================ -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman-attia-2001&bg_color=0D1117&color=14F774&line=14F774&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Trophies -->
+<!--- ============================================================ -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-   <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-attia-2001&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
-   </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-attia-2001&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  </a>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ============================================================ -->
+<!--- Snake -->
+<!--- ============================================================ -->
 
-  
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/abdelrahman-attia-2001/abdelrahman-attia-2001/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+
+![Snake animation](https://github.com/abdelrahman-attia-2001/abdelrahman-attia-2001/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ============================================================ -->
+<!--- Connect Section -->
+<!--- ============================================================ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/--abdelrahman-attia22/">
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abdelrahmanattiaq@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/abdelrahman-attia-2001">
+    <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209"/>
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1xVpajtIWLy5JOhSmmCydlCj6rg91Odtk/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download%20CV-d5d5d5?style=for-the-badge&logo=googledrive&logoColor=1a73e8"/>
+  </a>
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman-attia-2001&label=Profile%20views&color=14F774&style=flat" />
+</p>
+
+<div align="center">
+  <samp>🇪🇬 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Very Good</samp>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
