@@ -25,7 +25,6 @@
 
 <p align="center"> I'm <b>Abdelrahman Attia</b>. Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.</p>
 
-### <p align="center">My Technical Skills</p>
 
 
 <div align="center">
