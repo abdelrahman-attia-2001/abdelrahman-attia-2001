@@ -61,13 +61,6 @@ A role-based recycling platform (User/Admin/Company) with a modular, scalable Re
 **Tech:** React · TypeScript · Context API · RHF · Zod · i18n  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/final-project-team-iti-damanhour/website)
 
----
-
-### 🌱 Smart Soil Monitoring System *(Graduation Project – Excellent)*
-An IoT-based soil monitoring system with real-time data collection (moisture, gas levels), wireless transmission, and a responsive web dashboard.
-
-**Tech:** Arduino · C/C++ · HTML · JavaScript
-<div align="center">
 
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
@@ -81,7 +74,7 @@ An IoT-based soil monitoring system with real-time data collection (moisture, ga
 | <samp>Tools & Routing</samp> | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
 | <samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 | <samp>Design & API</samp> | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| <samp>Embedded / IoT</samp> | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
