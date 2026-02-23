@@ -61,7 +61,7 @@ A role-based recycling platform (User/Admin/Company) with a modular, scalable Re
 **Tech:** React · TypeScript · Context API · RHF · Zod · i18n  
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-black?style=flat-square&logo=github)](https://github.com/final-project-team-iti-damanhour/website)
 
-
+<div align="center">
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 
 | <samp>Category</samp> | <samp>Technologies</samp> |
