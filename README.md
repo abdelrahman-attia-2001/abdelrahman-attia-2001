@@ -68,6 +68,7 @@ An IoT-based soil monitoring system with real-time data collection (moisture, ga
 
 **Tech:** Arduino · C/C++ · HTML · JavaScript
 
+<div align="center">
 # Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
 <samp>Category</samp> | <samp>Technologies</samp>
 --- | ---
@@ -81,6 +82,7 @@ An IoT-based soil monitoring system with real-time data collection (moisture, ga
 <samp>Design & API</samp> | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 <samp>Embedded / IoT</samp> | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</div>
 
 ## 🌱 Currently Learning
 - 🔭 Deepening expertise in **Next.js**, **performance optimization**, and **advanced React patterns**
